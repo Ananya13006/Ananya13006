@@ -19,6 +19,11 @@ Things I am working on:
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
+Certifications:
+
+
+ [Excel Certificate](https://github.com/Ananya13006/certificates/blob/main/ANANYA%20SHARMA.pdf)
+
 
 
 
